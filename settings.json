@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "jademinecraft.aternos.me",
+    "ip": "jademinecraft.aternos.me:12350",
     "port": 12350,
     "version": "",
     "try-creative": false
